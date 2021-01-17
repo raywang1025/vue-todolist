@@ -1,12 +1,3 @@
-0116（六）
-- [ ] 1. portfolioNew: Add keyframe animation in the SASS syntax.
-- [SASS Keyframes mixin](https://codepen.io/shoh/pen/EyVEgp?editors=1100)
-- [@mixin指令介紹](https://tobyisme.gitbook.io/sass/mixin)
-- [在 Sass 中使用 Keyframe](https://www.jianshu.com/p/ec37f61e7636)
-- [CSS3 Transition - Fade out effect](https://stackoverflow.com/questions/15907079/css3-transition-fade-out-effect)
-- [CSS animation Property](https://www.w3schools.com/cssref/css3_pr_animation.asp)
-- [Run CSS3 animation only once (at page loading)](https://stackoverflow.com/questions/8482820/run-css3-animation-only-once-at-page-loading)
-
 0115（五）
 - [ ] 1. Vue-todolist:
 - [ ] Stucked at the step of deploing to github page with a blank pages which display nothing, and no error msg.
